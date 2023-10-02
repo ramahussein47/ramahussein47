@@ -3,6 +3,7 @@
 - 🌱 My experience is creating usable applications that may be needed in innovative applications that will be used in a Global situations
 - 💞️ I’m looking to collaborate with anyone in field on creating mobile applications
 - 📫 How to reach me ..contact me in my work email at ramadhanhussein394@gmail.com
+I hunt for bugs during my free time🫣
 
 <!---
 ramahussein47/ramahussein47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
