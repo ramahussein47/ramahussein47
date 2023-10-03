@@ -1,6 +1,6 @@
 
 I hunt for bugs during my free time🫣(you can count on me when it comes to Mobile hacking)
-I code in Flutter sometimes 
+I code in Flutter sometimes and some scripting in python too
 
 <!---
 ramahussein47/ramahussein47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
